@@ -8,6 +8,9 @@ contributor:
     deathdate: 1944
     gutenberg_agent_id: '31609'
     url: http://www.gutenberg.org/2009/agents/31609
+covers:
+- cover_type: archival
+  image_path: 58165-h/images/cover.jpg
 creator:
   author:
     agent_name: Sabin, Edwin L. (Edwin Legrand)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '9476'
     url: http://www.gutenberg.org/2009/agents/9476
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58165#When-You-Were-a-Boy
 gutenberg_issued: '2018-10-25'
 gutenberg_type: Text
 identifiers:
